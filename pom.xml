@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.codebyexample</groupId>
-    <artifactId>spring-boot-template</artifactId>
+    <artifactId>unit-test-junit-5-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Parent</name>
 
     <modules>
-        <module>hello-world</module>
+        <module>unit-test-junit-5</module>
     </modules>
 
     <build>
