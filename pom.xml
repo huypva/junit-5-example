@@ -10,7 +10,7 @@
     <name>Parent</name>
 
     <modules>
-        <module>junit-5</module>
+        <module>junit5</module>
     </modules>
 
 <!--    <build>-->
