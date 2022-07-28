@@ -1,5 +1,3 @@
-The example project for StringBoot service
-
 <div align="center">
     <img src="./assets/images/junit_5.png"/>
 </div>
@@ -9,7 +7,7 @@ The example project for StringBoot service
 ## Project structure
 ```
 .
-├── junit-test-junit-5
+├── junit-5
 │   ...
 |
 └── README.md
